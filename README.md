@@ -1,2 +1,2 @@
 # Learning-Python
-Me learning Python basics
+me just learning the basics of Python.
