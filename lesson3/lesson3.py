@@ -1,5 +1,5 @@
-'lesson3' 'introducing lists'
 #!usr/bin/env python
+#lesson3 introducing lists
 
 #The zero tells python wha bicycle to print out in the order.
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
