@@ -1,0 +1,18 @@
+#If statement
+
+Joe = 5
+Mikey = 10
+if x < 10:
+     print("That is correct!")
+
+
+
+#Else statement
+
+
+Joe = 5
+Mikey = 10
+if x > y:
+    print("that is correct!")
+else:
+   print("that is NOT correct!")
